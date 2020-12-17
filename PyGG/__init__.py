@@ -18,3 +18,4 @@ from .GEventSystem import *
 from .GComponents import *
 from .GGameObjects import *
 from .GSceneSystem import *
+from .GGameProcessor import *
